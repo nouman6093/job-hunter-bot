@@ -212,7 +212,7 @@ def process_job_row(row):
 # ---------------------------------------------------------------------------
 def main():
     init_db()
-    platforms = ["linkedin", "indeed", "glassdoor", "google", "bayt"]
+    platforms = ["linkedin", "indeed", "google", "bayt"]
 
     for query in SEARCH_QUERIES:
         for platform in platforms:
