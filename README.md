@@ -6,6 +6,12 @@ Runs automatically every 20 minutes on GitHub Actions, maintaining state with an
 
 ---
 
+## Demo Preview
+
+<img width="1218" height="594" alt="image" src="https://github.com/user-attachments/assets/4d8641a2-4d28-484d-9fd9-785a7250baae" />
+
+---
+
 ## Key Features
 
 * **Multi-Board Aggregation**: Scrapes LinkedIn, Indeed, Google Jobs, and Bayt via `python-jobspy`.
